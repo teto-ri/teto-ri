@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
 </p> <!--   뱃지 제작 참고: https://2dowon.netlify.app/etc/github-badge/ -->
 <br>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=teto-ri&theme=nord&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
