@@ -14,8 +14,9 @@
 </p>
 
 ### About Me 
-  - I'm Studying in 👨🏻‍💻Pusan Nation Univ CSE & Working 🔭 ML/DL Engineer
-  - 🌱 I’m Learning `ML/DL`, `Data Analysis`, personal interest `Investment/Trading`, `Quant`
+I'm Studying in 👨🏻‍💻Pusan Nation Univ CSE & Working 🔭 ML/DL Engineer
+
+🌱 I’m Learning `ML/DL`, `Data Analysis`, personal interest `Investment/Trading`, `Quant`
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
