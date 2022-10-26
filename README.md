@@ -23,13 +23,13 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <br>
-  <img src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
-  <img src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
-  <img src ="https://img.shields.io/badge/keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white"/></a>&nbsp 
+  <img src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
+  <img src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
+  <img src ="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white"/></a>&nbsp 
   <br>
-  <img src ="https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
-  <img src ="https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/></a>&nbsp 
-  <img src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
+  <img src ="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
+  <img src ="https://img.shields.io/badge/Scikitlearn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/></a>&nbsp 
+  <img src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp 
