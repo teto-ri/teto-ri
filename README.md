@@ -39,7 +39,7 @@ I'm Studying in 👨🏻‍💻Pusan Nation Univ CSE & Working 🔭 ML/DL Engine
 </p> <!--   뱃지 제작 참고: https://2dowon.netlify.app/etc/github-badge/ -->
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=teto-ri&theme=nord&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=teto-ri&theme=high-contrast&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
