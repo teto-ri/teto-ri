@@ -13,10 +13,10 @@
   <a href="mailto:byeonggeun.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/byeonggeun.ml@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### About Me 
+### 👋About Me 
 Studying in 👨🏻‍💻Pusan Nation Univ CSE & Working 🔭 ML/DL Engineer
 
-🌱 Learning `ML/DL`, `Data Analysis`, Personal interest `Investment/Trading`, `Quant`
+Learning `ML/DL`, `Data Analysis`, Personal interest `Investment/Trading`, `Quant`
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
