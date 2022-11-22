@@ -1,6 +1,6 @@
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=170&text=Shin_BG.&desc=Machine/Deep%20Learning%20Engineer&fontColor=ffffff&fontAlign=15&fontAlignY=27&color=0:000000,100:ffffff&fontSize=45&descAlign=25&descAlignY=48)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=Shin_BG.&desc=Machine/Deep%20Learning%20Engineer&fontColor=ffffff&fontAlign=15&fontAlignY=27&color=0:000000,100:ffffff&fontSize=35&descAlign=25&descAlignY=48)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teto-ri&theme=graywhite&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👉 [Career & Portfolio](https://tetori.notion.site/ByeongGeun-Shin-5ccc0e3ef6c6484a9d0462068ea1c493) 👈
@@ -16,7 +16,7 @@
 ### 👋About Me 
 Studying in 👨🏻‍💻Pusan Nation Univ CSE & Working 🔭 ML/DL Engineer
 
-Learning `ML/DL`, `Data Analysis`, Personal interest `Investment/Trading`, `Quant`
+Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`, `IOT`, `System Trading/Quant`,
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
