@@ -8,7 +8,7 @@
 <p>
   <a href="https://twitter.com/Teto_Ri" target="_blank"><img src="https://img.shields.io/badge/Teto_Ri-000000?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/s.hin_bg/" target="_blank"><img src="https://img.shields.io/badge/s.hin_bg-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://tetori.notion.site/ByeongGeun-Shin-5ccc0e3ef6c6484a9d0462068ea1c493" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://tetori.notion.site/tetori/ByeongGeun-Shin-35d9442fa31b4fa8bc915eedb7827e0f" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
   <a href="mailto:byeonggeun.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/byeonggeun.ml@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
