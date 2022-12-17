@@ -16,7 +16,7 @@
 ### 👋About Me 
 Studying in 👨🏻‍💻Pusan Nation Univ CSE & Working 🔭 ML/DL Engineer
 
-Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`, NLP, `Game EcoSystem`, `System Trading/Quant`
+Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`, `NLP`, `Game EcoSystem`, `System Trading/Quant`
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
