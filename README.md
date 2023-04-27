@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=Shin_BG.&desc=Machine/Deep%20Learning%20Engineer&fontColor=ffffff&fontAlign=15&fontAlignY=27&color=0:000000,100:ffffff&fontSize=35&descAlign=25&descAlignY=48)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teto-ri&theme=graywhite&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 👉 [Career & Portfolio](https://tetori.notion.site/ByeongGeun-Shin-35d9442fa31b4fa8bc915eedb7827e0f) 👈
+###  My Notion Career & Portfolio : 👉 [LINK](https://tetori.notion.site/ByeongGeun-Shin-35d9442fa31b4fa8bc915eedb7827e0f) 👈
 
 <p>
   <a href="https://twitter.com/Teto_Ri" target="_blank"><img src="https://img.shields.io/badge/Teto_Ri-000000?style=flat-square&logo=Twitter&logoColor=white"/></a>
