@@ -14,7 +14,7 @@
 </p>
 
 ### 👋About Me 
-Studying in 👨🏻‍💻Pusan Nation Univ CSE & Working 🔭 ML/DL Engineer
+Working 🔭 ML/DL Engineer & Studying in Pusan Nation Univ CSE
 
 Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`, `NLP`, `System Trading/Quant`
 
