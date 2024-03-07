@@ -21,8 +21,8 @@ Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`, `NLP`, `
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <br>
   <img src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
   <img src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
