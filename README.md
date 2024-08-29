@@ -18,7 +18,7 @@
 ### 👋About Me 
 Working 🔭 ML/DL Engineer & Studying in Pusan Nation Univ CSE
 
-Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`, `NLP`, `System Trading/Quant`
+Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`, `NLP`, `GenAI`, `System Trading/Quant`
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
