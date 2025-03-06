@@ -3,9 +3,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=Shin_BG.&desc=Machine/Deep%20Learning%20AI%20Engineer&fontColor=ffffff&fontAlign=15&fontAlignY=27&color=0:000000,100:ffffff&fontSize=35&descAlign=25&descAlignY=48)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teto-ri&theme=graywhite&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-###  My Notion Career & Portfolio : 
+###  My Detail Career & Portfolio : 
 
-👉 [LINK](https://tetori.notion.site/ByeongGeun-Shin-e9b48c7b407a46ef8ab678e3a8e3c822) 👈
+### 👉 [Notion LINK](https://tetori.notion.site/ByeongGeun-Shin-e9b48c7b407a46ef8ab678e3a8e3c822) 👈
 
 <p>
   <a href="www.linkedin.com/in/shinbg" target="_blank"><img src="http://img.shields.io/badge/In-LinkedIn-000000?style=flat-square&logo=linkedin&link=www.linkedin.com/in/shinbg"/></a>
