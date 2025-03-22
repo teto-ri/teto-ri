@@ -10,7 +10,7 @@
 <p>
   <a href="https://www.linkedin.com/in/shinbg" target="_blank"><img src="http://img.shields.io/badge/In-LinkedIn-000000?style=flat-square&logo=linkedin"/></a>
   <a href="https://www.instagram.com/s.hin_bg/" target="_blank"><img src="https://img.shields.io/badge/s.hin_bg-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://tetori.notion.site/ByeongGeun-Shin-e9b48c7b407a46ef8ab678e3a8e3c822" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://tetori.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
   <a href="mailto:byeonggeun.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/byeonggeun.ml@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
