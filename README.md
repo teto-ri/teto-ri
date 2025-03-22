@@ -5,7 +5,7 @@
 
 ###  My Detail Career & Portfolio : 
 
-### 👉 [Notion LINK](https://tetori.notion.site/ByeongGeun-Shin-e9b48c7b407a46ef8ab678e3a8e3c822) 👈
+### 👉 [Notion LINK](https://tetori.notion.site/) 👈
 
 <p>
   <a href="https://www.linkedin.com/in/shinbg" target="_blank"><img src="http://img.shields.io/badge/In-LinkedIn-000000?style=flat-square&logo=linkedin"/></a>
